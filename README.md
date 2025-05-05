@@ -3,7 +3,7 @@
 
 **Mathematics** student passionate about programming and problem-solving. Skilled at breaking down complex challenges, analyzing their root causes, and optimizing processes.
 I have applied these skills in university projects.
-Additionally, I am currently training in Data Science and Data Analysis.
+Additionally, I am currently training in Data Science.
 
 ## Technical Skills
 
